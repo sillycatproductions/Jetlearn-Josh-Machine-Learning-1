@@ -1,0 +1,6 @@
+Machine Learning - A field of AI enabling the computer to learn from given data to make predictions
+    There are 3 types of Machine Learning:
+        Classification - Has a finite set of outputs (e.g. 2 classes - Dog or Cat)
+        Regression - Has an infinite set of outputs (e.g. How many cm something might be)
+        Reccomendation - Output is based off of a previous input (e.g. Netflix reccomending new shows based off of what you've watched before)
+
